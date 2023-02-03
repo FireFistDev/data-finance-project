@@ -1,7 +1,5 @@
 import React from "react";
-import double from "../assets/double.png";
-import single from "../assets/single.png";
-import triple from "../assets/triple.png";
+
 const CardItem = (props) => {
   return (
     <>
